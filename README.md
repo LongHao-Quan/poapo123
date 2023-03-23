@@ -1,7 +1,7 @@
 ### Hi there 👋
 Name: Longhao Quan
 Intro:
-I'm currently working with Maketian company.
+I'm currently working with Marketian company.
 
 Main Tech:
 Web System (JAVA, Python)
